@@ -1,5 +1,5 @@
 # Candy-Swoop
-Fun game I created for children like my younger siblings to play.
+Fun addicting game I created for children like my younger siblings to play.
 
 <p align = "center">
  <img src= "https://user-images.githubusercontent.com/24784219/181692880-3e799831-460f-4aca-8f84-7ca116c2300b.jpeg" width = "248" height = "537"/>
